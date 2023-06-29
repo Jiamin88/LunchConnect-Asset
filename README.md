@@ -3,6 +3,8 @@
 
 <body>
   <h1>LunchConnect Art Assets</h1>
+  
+   <a href="https://github.com/wilfredNJH/LunchConnect.git">LunchConnect GitHub Repository</a>
 
   <p>This repository contains the art assets for the mobile application <strong>LunchConnect</strong>. The art assets are essential components that contribute to the visual appeal and user experience of the application.</p>
 
